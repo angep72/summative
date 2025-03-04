@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-+du&!b^sekfp%9g4@!yph7bx*6g+40^*h-5@flbt@#eg%r3qd='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['https://summative-3.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['https://summative-3.onrender.com','127.0.0.1','summative-3.onrender.com']
 
 
 # Application definition
