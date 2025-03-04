@@ -1,5 +1,5 @@
 """
-WSGI config for green_academy project.
+WSGI config for green_Academy project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'green_academy.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'green_Academy.settings')
 
 application = get_wsgi_application()
