@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+du&!b^sekfp%9g4@!yph7bx*6g+40^*h-5@flbt@#eg%r3qd=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://summative-2.onrender.com"]
+ALLOWED_HOSTS = ["https://summative-3.onrender.com"]
 
 
 # Application definition
