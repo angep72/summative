@@ -66,8 +66,8 @@ TEMPLATES = [
     },
 ]
 
-ROOT_URLCONF = 'green_Academy.urls'
-WSGI_APPLICATION = 'green_Academy.wsgi.application'
+ROOT_URLCONF = 'green_academy.urls'
+WSGI_APPLICATION = 'green_academy.wsgi.application'
 
 # Database configuration
 DATABASES = {
