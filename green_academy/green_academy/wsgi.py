@@ -1,5 +1,5 @@
 """
-WSGI config for green_Academy project.
+WSGI config for green_academy project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
