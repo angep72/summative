@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-# Templates configuration
+# Templates configurationdeb
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
